@@ -1,0 +1,111 @@
+export default [
+  {
+    id: 1,
+    img: {
+      src: "https://scrimba.com/links/travel-journal-japan-image-url",
+      alt: "Mount Fuji",
+    },
+    title: "Mount Fuji",
+    country: "Japan",
+    googleMapsLink: "https://maps.app.goo.gl/6RLYZDuuuqJ7kNGZ9",
+    dates: "12 Jan, 2021 - 24 Jan, 2021",
+    text: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
+  },
+  {
+    id: 2,
+    img: {
+      src: "https://scrimba.com/links/travel-journal-australia-image-url",
+      alt: "Sydney Opera House",
+    },
+    title: "Sydney Opera House",
+    country: "Australia",
+    googleMapsLink: "https://maps.app.goo.gl/Zr17SCrsJeCEKMd36",
+    dates: "27 May, 2021 - 8 Jun, 2021",
+    text: "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings.",
+  },
+  {
+    id: 3,
+    img: {
+      src: "https://scrimba.com/links/travel-journal-norway-image-url",
+      alt: "Geirangerfjord",
+    },
+    title: "Geirangerfjord",
+    country: "Norway",
+    googleMapsLink: "https://maps.app.goo.gl/fhkJuBhmFDv47tiB7",
+    dates: "01 Oct, 2021 - 18 Nov, 2021",
+    text: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
+  },
+  {
+    id: 4,
+    img: {
+      src: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Empire_State_Building_%28aerial_view%29.jpg/800px-Empire_State_Building_%28aerial_view%29.jpg",
+      alt: "Empire State Building",
+    },
+    title: "Empire State Building",
+    country: "United States",
+    googleMapsLink: "https://maps.app.goo.gl/2Uu8LxMQdhXV4HFQA",
+    dates: "03 Mar, 2022 - 10 Mar, 2022",
+    text: "The Empire State Building is a 102-story Art Deco skyscraper in Midtown Manhattan, New York City. It stood as the world's tallest building for nearly 40 years and remains one of the most iconic landmarks in the United States.",
+  },
+  {
+    id: 5,
+    img: {
+      src: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/800px-Taj_Mahal_%28Edited%29.jpeg",
+      alt: "Taj Mahal",
+    },
+    title: "Taj Mahal",
+    country: "India",
+    googleMapsLink:
+      "https://www.google.com/maps/search/?api=1&query=Taj+Mahal+Agra+India",
+    dates: "15 Feb, 2022 - 22 Feb, 2022",
+    text: "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, India. Commissioned in 1632 by Mughal emperor Shah Jahan, it is regarded as one of the finest examples of Mughal architecture and a UNESCO World Heritage Site.",
+  },
+  {
+    id: 6,
+    img: {
+      src: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Camponotus_flavomarginatus_ant.jpg/800px-Camponotus_flavomarginatus_ant.jpg",
+      alt: "Machu Picchu",
+    },
+    title: "Machu Picchu",
+    country: "Peru",
+    googleMapsLink: "https://maps.app.goo.gl/qtqkPmMKBEWgF3nH6",
+    dates: "08 Jul, 2022 - 20 Jul, 2022",
+    text: "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a mountain ridge 2,430 meters above sea level. It is the most familiar icon of the Inca Empire and was declared a UNESCO World Heritage Site in 1983.",
+  },
+  {
+    id: 7,
+    img: {
+      src: "https://images.unsplash.com/photo-1503917988258-f87a78e3c995?w=400&q=80",
+      alt: "Eiffel Tower at sunset",
+    },
+    title: "Eiffel Tower",
+    country: "France",
+    googleMapsLink: "https://www.google.com/maps?q=48.858093,2.294694",
+    dates: "3 Mar, 2022 - 10 Mar, 2022",
+    text: "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower from 1887 to 1889.",
+  },
+  {
+    id: 8,
+    img: {
+      src: "https://images.unsplash.com/photo-1555993539-1732b0258235?w=400&q=80",
+      alt: "Marrakech medina",
+    },
+    title: "Marrakech Medina",
+    country: "Morocco",
+    googleMapsLink: "https://www.google.com/maps?q=31.6295,−7.9811",
+    dates: "15 Nov, 2022 - 22 Nov, 2022",
+    text: "The Medina of Marrakech is a UNESCO World Heritage Site and one of the best-preserved medieval cities in the Arab-Muslim world. Its maze of narrow streets is filled with souks, palaces, and vibrant street life.",
+  },
+  {
+    id: 9,
+    img: {
+      src: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=400&q=80",
+      alt: "Tokyo skyline at night",
+    },
+    title: "Tokyo Skyline",
+    country: "Japan",
+    googleMapsLink: "https://www.google.com/maps?q=35.6762,139.6503",
+    dates: "28 Mar, 2023 - 10 Apr, 2023",
+    text: "Tokyo is Japan's bustling capital, mixing ultramodern and traditional elements from neon-lit skyscrapers to historic temples. It is one of the world's most populated metropolitan areas and a global hub of culture and innovation.",
+  },
+];
